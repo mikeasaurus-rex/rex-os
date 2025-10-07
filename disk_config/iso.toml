@@ -1,0 +1,4 @@
+[iso]
+name = "rex-os"
+version = "1.0.0"
+description = "Bootable image for rex-os"
